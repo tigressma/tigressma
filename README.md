@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tigressma
 - 👀 I’m interested in ...Gaming
 - 🌱 I’m currently learning ...code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...github.com/cli/oauth
 - 📫 How to reach me ...honesty7807@gmail.com
 
 <!---
